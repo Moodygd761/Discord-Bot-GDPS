@@ -1,18 +1,18 @@
 {
       "READ_THIS": "BOT_TOKEN must be edit at .env",
-      "prefix": "0.",
-      "host": "http://localhost/dbgdps",
+      "prefix": "bd!",
+      "host": "https://femgram.ps.fhgdps.com/bot",
       "owner": "user_id",
       "statusbot": "online",
       "actionbot": "PLAYING",
       "gdpsup": {
             "READ_THIS": "change gdps, directory and turn if needed. turn is if you are using gdps song uploader use On",
             "gdps": true,
-            "directory": "gdpsup",
-            "turn": "Off"
+            "directory": "public_html",
+            "turn": "On"
       },
       "channel": {
-      "gdpsstatus": "channel_id",
-      "ratestatus": "channel_id"
+      "gdpsstatus": "1289692864124817409",
+      "ratestatus": "1289692893061185657"
       }
 }
